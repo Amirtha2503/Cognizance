@@ -7,9 +7,9 @@ The landing page was created for a *vegan backery* called ☘️***LEAF BAKED***
 + There is a general misconception that vegan is bland (-_-).
 + So, this landing page was created to encourage people to try out vegan food without compromising on the taste. 
 + Leaf Baked specialises in making 🍰, 🎂, 🍪 and  🍕 by using vegan alternatives.
-+ And this will also help lactose intolerant people to have yummy food without worrying about their health!!!
++ So this will also help lactose intolerant people to have yummy food without worrying about their health!!!
 ```
-### Tools used
+### Platform used
 ***Figma*** was used to create the landing page.
 ### Future enhancements
 Some future scope for this landing page would be to:
