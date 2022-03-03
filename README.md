@@ -6,7 +6,7 @@ The landing page was created for a vegan backery to showcase their baked goodies
 The owners of the backery were motivated to encourage people to try out vegan food, especially baked products to show them that veganism doesn't have to be boring and plain.
 ### Future improvements
 Some future enhancements would be to:
-~ Improve the quality of the landing page
-~ Add more features to it
-~ Create an acutal website 
+\t ~ Improve the quality of the landing page
+\t ~ Add more features to it
+\t ~ Create an acutal website 
 
