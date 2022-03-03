@@ -1,12 +1,22 @@
-# LEAF BAKED
+# TASK 6
 ## This is a markdown file for the landing page created in Task 3
 ### Theme
-The landing page was created for a vegan backery to showcase their baked goodies and enable customers to purchase from the comfort of their homes! :)
+The landing page was created for a *vegan backery* called ☘️***LEAF BAKED***🍞 to showcase their baked goodies and enable customers to purchase from the comfort of their homes! :)
 ### Motivation
-The owners of the backery were motivated to encourage people to try out vegan food, especially baked products to show them that veganism doesn't have to be boring and plain.
-### Future improvements
-Some future enhancements would be to:
->Improve the quality of the landing page <br>
->Add more features to it <br>
->Create an acutal website <br>
-
+```diff
++ There is a general misconception that vegan is bland (-_-).
++ So, this landing page was created to encourage people to try out vegan food without compromising on the taste. 
++ Leaf Baked specialises in making 🍰, 🎂, 🍪 and  🍕 by using vegan alternatives.
++ And this will also help lactose intolerant people to have yummy food without worrying about their health!!!
+```
+### Tools used
+***Figma*** was used to create the landing page.
+### Future enhancements
+Some future scope for this landing page would be to:
+```diff
+! Improve the quality of the landing page 
+- Add more features to it like coupon/lottery tickets and discounts for customers 
+@@ Create an acutal website with a blog that details recipes @@
+```
+### Credits
+Images for the landing page were taken from the webiste of [Pick Up Limes](www.pickuplimes.com)
