@@ -14,9 +14,9 @@ The landing page was created for a *vegan backery* called ☘️***LEAF BAKED***
 ### Future enhancements
 Some future scope for this landing page would be to:
 ```diff
-! Improve the quality of the landing page 
-- Add more features to it like coupon/lottery tickets and discounts for customers 
+!  Improve the quality of the landing page 
+-  Add more features to it like coupon/lottery tickets and discounts for customers 
 @@ Create an acutal website with a blog that details recipes @@
 ```
 ### Credits
-Images for the landing page were taken from the webiste of [Pick Up Limes](www.pickuplimes.com)
+Images for the landing page were taken from [Pick Up Limes](https://www.pickuplimes.com/)
